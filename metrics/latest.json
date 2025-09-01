@@ -1,0 +1,101 @@
+{
+  "repo": "GH6324/UDPlex",
+  "branch": "master",
+  "sha": "a2f40ca6a72d7bc37ed091d2fdd55b1067cce2cb",
+  "run_id": "17376885436",
+  "runner_os": "Linux",
+  "timestamp": "2025-09-01T12:00:31.879906436Z",
+  "duration_sec": 10,
+  "results": [
+    {
+      "name": "Basic Packet Loss Test",
+      "sent": 393486,
+      "received": 393486,
+      "error_packets": 0,
+      "loss_rate": 0,
+      "throughput_pps": 39348.6,
+      "success": true
+    },
+    {
+      "name": "Basic Performance Test",
+      "sent": 994216,
+      "received": 994216,
+      "error_packets": 0,
+      "loss_rate": 0,
+      "throughput_pps": 99421.6,
+      "success": true
+    },
+    {
+      "name": "Auth Client-Server Packet Loss Test",
+      "sent": 331537,
+      "received": 331537,
+      "error_packets": 0,
+      "loss_rate": 0,
+      "throughput_pps": 33153.7,
+      "success": true
+    },
+    {
+      "name": "Auth Client-Server Performance Test",
+      "sent": 860989,
+      "received": 859901,
+      "error_packets": 0,
+      "loss_rate": 0.0012636630665432426,
+      "throughput_pps": 85990.1,
+      "success": true
+    },
+    {
+      "name": "Filter Packet Loss Test",
+      "sent": 392620,
+      "received": 392620,
+      "error_packets": 0,
+      "loss_rate": 0,
+      "throughput_pps": 39262,
+      "success": true
+    },
+    {
+      "name": "Filter Performance Test",
+      "sent": 990804,
+      "received": 990804,
+      "error_packets": 0,
+      "loss_rate": 0,
+      "throughput_pps": 99080.4,
+      "success": true
+    },
+    {
+      "name": "Load Balancer Packet Loss Test",
+      "sent": 388238,
+      "received": 388238,
+      "error_packets": 0,
+      "loss_rate": 0,
+      "throughput_pps": 38823.8,
+      "success": true
+    },
+    {
+      "name": "Load Balancer Performance Test",
+      "sent": 987003,
+      "received": 987000,
+      "error_packets": 0,
+      "loss_rate": 0.0000030395044391962334,
+      "throughput_pps": 98700,
+      "success": true
+    },
+    {
+      "name": "TCP Tunnel Packet Loss Test",
+      "sent": 312942,
+      "received": 312942,
+      "error_packets": 0,
+      "loss_rate": 0,
+      "throughput_pps": 31294.2,
+      "success": true
+    },
+    {
+      "name": "TCP Tunnel Performance Test",
+      "sent": 819540,
+      "received": 817300,
+      "error_packets": 0,
+      "loss_rate": 0.0027332405983844597,
+      "throughput_pps": 81730,
+      "success": true
+    }
+  ]
+}
